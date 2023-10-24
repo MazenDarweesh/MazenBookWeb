@@ -16,6 +16,7 @@ namespace Mazen.Models
         [ForeignKey("ApplicationUserId")]
         [ValidateNever]
         public ApplicationUser ApplicationUser { get; set; }
+        public int isTrue { get; set; }
         public DateTime OrderDate { get; set; }
         public DateTime ShipingTime { get; set; }
         public double OrderTotal { get; set; }
