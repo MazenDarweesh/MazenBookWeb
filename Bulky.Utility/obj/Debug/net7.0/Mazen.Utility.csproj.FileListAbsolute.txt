@@ -1,0 +1,12 @@
+X:\work\Bulky\Bulky.Utility\bin\Debug\net7.0\Mazen.Utility.deps.json
+X:\work\Bulky\Bulky.Utility\bin\Debug\net7.0\Mazen.Utility.dll
+X:\work\Bulky\Bulky.Utility\bin\Debug\net7.0\Mazen.Utility.pdb
+X:\work\Bulky\Bulky.Utility\obj\Debug\net7.0\Mazen.Utility.csproj.AssemblyReference.cache
+X:\work\Bulky\Bulky.Utility\obj\Debug\net7.0\Mazen.Utility.GeneratedMSBuildEditorConfig.editorconfig
+X:\work\Bulky\Bulky.Utility\obj\Debug\net7.0\Mazen.Utility.AssemblyInfoInputs.cache
+X:\work\Bulky\Bulky.Utility\obj\Debug\net7.0\Mazen.Utility.AssemblyInfo.cs
+X:\work\Bulky\Bulky.Utility\obj\Debug\net7.0\Mazen.Utility.csproj.CoreCompileInputs.cache
+X:\work\Bulky\Bulky.Utility\obj\Debug\net7.0\Mazen.Utility.dll
+X:\work\Bulky\Bulky.Utility\obj\Debug\net7.0\refint\Mazen.Utility.dll
+X:\work\Bulky\Bulky.Utility\obj\Debug\net7.0\Mazen.Utility.pdb
+X:\work\Bulky\Bulky.Utility\obj\Debug\net7.0\ref\Mazen.Utility.dll
